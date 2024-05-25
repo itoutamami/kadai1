@@ -146,6 +146,7 @@ News
   font-family: 'Font Awesome 5 Free';
   content: '\f13a';
   font-weight: 900;
+  top:15px;
   right: 20px;
   transition: 0.3s;
 }
